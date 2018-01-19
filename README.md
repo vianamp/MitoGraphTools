@@ -24,10 +24,10 @@ on these images you should be able to get these values:
 
 | File | Volume from voxels (µm3) | Average width (µm) | Std width (µm) | Total length (µm) | Volume from length (µm3)|
 |------|:------------------------:|:------------------:|:--------------:|:-----------------:|:-----------------------:|
-|BuddingYeastGlucose05 | 4.23674	| 0.22246	| 0.03501	| 46.57995	| 3.29254|
-|BuddingYeastGlucose05 | 5.23900	| 0.22189	| 0.03842	| 55.27222	| 3.90696|
-|BuddingYeastGlucose05 | 2.03777	| 0.24329	| 0.03732	| 15.97084	| 1.12891|
-|BuddingYeastGlucose05 | 2.54079	| 0.24168	| 0.03439	| 23.62560	| 1.67000|
+|BuddingYeastGlucose01 | 4.23674	| 0.22246	| 0.03501	| 46.57995	| 3.29254|
+|BuddingYeastGlucose02 | 5.23900	| 0.22189	| 0.03842	| 55.27222	| 3.90696|
+|BuddingYeastGlucose03 | 2.03777	| 0.24329	| 0.03732	| 15.97084	| 1.12891|
+|BuddingYeastGlucose04 | 2.54079	| 0.24168	| 0.03439	| 23.62560	| 1.67000|
 |BuddingYeastGlucose05 | 2.01331	| 0.23770	| 0.04171	| 16.01066	| 1.13173|
 
 ## ImageJ Macros
