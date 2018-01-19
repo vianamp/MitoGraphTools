@@ -10,6 +10,11 @@ To download our example dataset and ImageJ macros, please click here.
 
 ## Example Dataset
 
+<p align="center">
+  <a href="https://sites.google.com/site/vianamp/examples.zip?attredirects=0&d=1">
+  <img src="https://sites.google.com/site/vianamp/_/rsrc/1418664353567/mitograph/mitoexamples.png" width="auto" height="128" title="Example Dataset"></a>
+</p>
+
 We made availabe five images of mitochondria in budding yeast cells grown in glucose. These cells have been imaged in a spinning disk confocal microscope and their pixel size is `0.056x0.056x0.200µm`. Running MitoGraph with 
 
 ```
