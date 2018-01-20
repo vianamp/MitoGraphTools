@@ -6,7 +6,7 @@ Matheus Viana - vianamp@gmail.com - 01.19.2018
 
 ## Download
 
-<a href="https://github.com/vianamp/MitoGraphAuxiliar/archive/v1.0.zip">To download our example dataset and ImageJ macros, please click here</a>.
+<a href="https://github.com/vianamp/MitoGraphTools/archive/v1.0.zip">To download our example dataset and ImageJ macros, please click here</a>.
 
 ## Example Dataset
 
