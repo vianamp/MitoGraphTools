@@ -30,7 +30,7 @@ on these images you should be able to get these values:
 |BuddingYeastGlucose04 | 2.54079	| 0.24168	| 0.03439	| 23.62560	| 1.67000|
 |BuddingYeastGlucose05 | 2.01331	| 0.23770	| 0.04171	| 16.01066	| 1.13173|
 
-Each of these images is processed in less than a minute in a MacBook Pro 2,9 GHz Intel Core i7.
+Each of these images is processed in ~25s in a MacBook Pro 2,9 GHz Intel Core i7.
 
 ## ImageJ Macros
 
