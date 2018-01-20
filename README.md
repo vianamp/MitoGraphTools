@@ -1,6 +1,6 @@
-# MitoGraphAuxiliar
+# MitoGraphTools
 
-Example dataset test <a href="https://github.com/vianamp/MitoGraph">MitoGraph</a> on and ImageJ macros to help you prepare your data.
+Example dataset to test <a href="https://github.com/vianamp/MitoGraph">MitoGraph</a> on and ImageJ macros to help you to prepare your data.
 
 Matheus Viana - vianamp@gmail.com - 01.19.2018
 
