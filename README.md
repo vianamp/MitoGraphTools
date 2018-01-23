@@ -61,4 +61,4 @@ USING THIS MACRO:
 1. Click run to execute the macro
 2. Select the size of the single cell images you want to create. The default value should be fine for images of mitochondria of yeast cells. You may want to increase this value if your cells are bigger (e.g. mammalian cells).
 3. Select the folder that contains the original z-stacks, the file __RoiSet.zip__ and the file __MaxProjs.tiff__
-4. A subfolder called __cells__ will be create and should be used as input for MitoGraph
+4. A subfolder called __cells__ will be created and should be used as input for MitoGraph
