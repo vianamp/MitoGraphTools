@@ -34,6 +34,8 @@ Each of these images is processed in ~25s in a MacBook Pro 2,9 GHz Intel Core i7
 
 ## ImageJ Macros
 
+MitoGraph performs better over single cell images similar to the images from our test dataset. Here we provide two ImageJ macros that helps you to format your images in that way. If you have any questions about how to use these macros, please contact us.
+
 ### GenFramesMaxProjs.ijm
 
 This macro is used to generate a z-stack where each slice corresponds to the max projection of a z-stack. The z-stack generated here is used to draw ROIs around the cells you want to analyze individually with MitoGraph.
