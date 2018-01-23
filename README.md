@@ -16,9 +16,10 @@ Matheus Viana - vianamp@gmail.com - 01.19.2018
 
 We made availabe five images of mitochondria in budding yeast cells grown in glucose. These cells have been imaged in a spinning disk confocal microscope and their pixel size is `0.056x0.056x0.200µm`. To execute MitoGraph type the following command in the terminal of your Mac OS (spotlight + terminal):
 
-`cd ~/Desktop/MitoGraph`
-
-`./MitoGraph -xy 0.056 -z 0.2 -path ~/Desktop/MitoGraphTools-1.0`
+```
+cd ~/Desktop/MitoGraph
+./MitoGraph -xy 0.056 -z 0.2 -path ~/Desktop/MitoGraphTools-1.0
+```
 
 Inspecting the output files `filename.mitograph` you should get these values:
 
