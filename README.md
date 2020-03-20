@@ -41,7 +41,7 @@ MitoGraph performs better over single cell images similar to the images from our
 
 This macro is used to generate a z-stack where each slice corresponds to the max projection of a z-stack. The z-stack generated here is used to draw ROIs around the cells you want to analyze individually with MitoGraph.
 
-**Warning:** make sure your files do not contain empty spaces in their names. A common practice is to replace empty spaces with underscore (_).
+**Warning:** make sure your files names are shorter than **60 characters** and **do not contain empty spaces**. A common practice is to replace empty spaces with underscore (_).
 
 USING THIS MACRO:
 
