@@ -11,7 +11,7 @@ Matheus Viana - vianamp@gmail.com - 01.19.2018
 ## Example Dataset
 
 <p align="center">
-  <img src="https://sites.google.com/site/vianamp/_/rsrc/1418664353567/mitograph/mitoexamples.png" width="auto" height="128" title="Example Dataset">
+  <img src="testset.png" width="auto" height="128" title="Example Dataset">
 </p>
 
 We made availabe five images of mitochondria in budding yeast cells grown in glucose. These cells have been imaged in a spinning disk confocal microscope and their pixel size is `0.056x0.056x0.200µm`. To execute MitoGraph type the following command in the terminal of your Mac OS (spotlight + terminal):
